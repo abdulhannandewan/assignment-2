@@ -58,3 +58,16 @@ ul >li{
   background-image: url('Rectangle 9.png');
   
 }
+.last{
+  width: 1922px;
+  height: 449;
+  text-align: center;
+  margin: 100px;
+  background-color: black;
+}
+*{
+  /* margin: 0px; */
+}
+.uuu{
+  padding:210px 649px 179px 648px ;
+}
