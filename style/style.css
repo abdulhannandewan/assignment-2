@@ -1,0 +1,60 @@
+.normal{
+  background: #e5545422 10%;
+  /* background-image: url('pngwing 10.png'); */
+display: flex;
+width: 1920px;
+height: 850px;
+margin: 100px;
+
+}
+.first{
+  padding: 197px 972px 147px 240px;
+  width: 708px;
+  height: 506px;
+  
+}
+.img{
+width: 603px;
+height: 800px;
+}
+.btn{
+  background: #e55454;
+  color: aliceblue;
+  border: #e55454;
+}
+.second{
+  padding: 230px 933px 162px 395px;
+  text-align: center;
+  width: 594px;
+  height: 228px;
+}
+.img2{
+  width: 318px;
+  height: 420px;
+}
+#img{
+  text-align: center;
+}
+.third{
+  text-align: center;
+  /* width: 594px; */
+  height: 132px;
+}
+ul{
+  display: flex;
+  
+}
+ul >li{
+  margin-right: 24px;
+  width: 342px;
+  height: 396px;
+  
+}
+.section-2{
+  text-align: center;
+  width: 1140px;
+  height: 449px;
+  margin: 600px;
+  background-image: url('Rectangle 9.png');
+  
+}
