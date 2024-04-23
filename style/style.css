@@ -98,3 +98,7 @@ ul li{
   display: flex;
   
 }
+li{
+  margin-right: 200px;
+  list-style:none ;
+}
