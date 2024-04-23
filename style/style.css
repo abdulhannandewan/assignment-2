@@ -1,26 +1,31 @@
 .normal{
   background: #e5545422 10%;
-  /* background-image: url('pngwing 10.png'); */
 display: flex;
 width: 1920px;
 height: 850px;
 margin: 100px;
+justify-content: space-between;
+align-items: center;
 
 }
 .first{
-  padding: 197px 972px 147px 240px;
+  padding:200px;
   width: 708px;
   height: 506px;
+  text-align: center;
   
 }
 .img{
-width: 603px;
-height: 800px;
+/* width: 603px; */
+/* height: 800px; */
 }
-.btn{
+.btn-primary{
   background: #e55454;
   color: aliceblue;
-  border: #e55454;
+  border:0;
+  font-size:20px ;
+  font-weight: 700;
+  border-radius: 5px;
 }
 .second{
   padding: 230px 933px 162px 395px;
@@ -44,10 +49,12 @@ ul{
   display: flex;
   
 }
-ul >li{
+ul li{
   margin-right: 24px;
   width: 342px;
   height: 396px;
+  list-style: none;
+
   
 }
 .section-2{
@@ -55,7 +62,9 @@ ul >li{
   width: 1140px;
   height: 449px;
   margin: 600px;
-  background-image: url('Rectangle 9.png');
+  background-image: url('/Rectangle 9.png');
+  background-size: contain;
+  background-repeat: no-repeat;
   
 }
 .last{
@@ -70,4 +79,22 @@ ul >li{
 }
 .uuu{
   padding:210px 649px 179px 648px ;
+}
+#header {
+  font-size: 80px;
+  font-weight: bolder;
+}
+.header-2{
+  font-size: 40px;
+}
+.paragraph{
+  font-size: 18px;
+}
+.head-3{
+  text-align: center;
+  font-size: 40px;
+}
+.img-4{
+  display: flex;
+  
 }
